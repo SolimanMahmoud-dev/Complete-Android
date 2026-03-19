@@ -28,15 +28,19 @@ The idea was simple: explore, search, and read books in a smooth and fun way.
 
 ## ✨ UI
 
-![WhatsApp Image 2024-09-16 at 14 21 41_45e65ed2](https://github.com/user-attachments/assets/42cfa0a4-eb13-4be6-b314-e9965d32cc12)
+![1](https://github.com/user-attachments/assets/2d02a7d2-d627-4fbf-8618-e318a58b63cc)
 
 <hr>
 
-![WhatsApp Image 2024-09-16 at 14 21 41_fceb73d2](https://github.com/user-attachments/assets/909b66a1-842d-4b82-a5fe-ee278c138f2d)
+![2](https://github.com/user-attachments/assets/7b644e0f-ce94-4f9c-984f-4f65778047f8)
 
 <hr>
 
-![WhatsApp Image 2024-09-16 at 14 21 41_5d9bc46e](https://github.com/user-attachments/assets/b6ffc994-a338-440d-b940-2743e6cd7b23)
+![3](https://github.com/user-attachments/assets/408f3347-2dcc-4da5-8d37-cb1f92ffe486)
+
+<hr>
+
+![4](https://github.com/user-attachments/assets/be6f5a86-a4e4-4823-9439-2fdf922630e1)
 
 <hr>
 
